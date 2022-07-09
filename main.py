@@ -13,6 +13,6 @@ def print_hi(name):
 if __name__ == '__main__':
     print_hi('PyCharm')
     print("sample project for git testing")
-    print("This is in the alt branch")
+    print("This is in the alt branch.")
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
